@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+p{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 10px;
+    color: blue;
+    font-size: 25px;
+    background-color: aliceblue;
+    text-align: left;
+}
